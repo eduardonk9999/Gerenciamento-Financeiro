@@ -10,16 +10,16 @@ categorizá-las e gerar relatórios úteis para análise. A aplicação permite 
 
 ### TODO
 
-- [ ] Definir Requisitos:
-    - [ ] Especificar os requisitos funcionais e não funcionais do aplicativo.
-    - [ ] Identificar os principais recursos e funcionalidades que o aplicativo deve oferecer.
+- [X] Definir Requisitos:
+    - [X] Especificar os requisitos funcionais e não funcionais do aplicativo.
+      - [X] Identificar os principais recursos e funcionalidades que o aplicativo deve oferecer.
 
-- [ ] Projetar a Arquitetura:
-    - [ ] Esboçar a arquitetura geral do aplicativo, incluindo as classes principais e suas relações.
-    - [ ] Decidir sobre a estrutura de diretórios e pacotes do projeto.
+- [X] Projetar a Arquitetura:
+    - [X] Esboçar a arquitetura geral do aplicativo, incluindo as classes principais e suas relações.
+    - [X] Decidir sobre a estrutura de diretórios e pacotes do projeto.
 
-- [ ] Implementar as Classes Básicas:
-    - [ ] Criar a classe `Conta` com atributos e métodos para gerenciar o saldo e as transações.
+- [X] Implementar as Classes Básicas:
+    - [X] Criar a classe `Conta` com atributos e métodos para gerenciar o saldo e as transações.
     - [ ] Implementar a classe `Transacao` com atributos para valor, data, categoria e descrição.
     - [ ] Desenvolver a classe `Categoria` para categorizar as transações.
 
