@@ -6,10 +6,12 @@ public class Transacao {
 
     public Transacao(double valor, Date data, String categoria, String descricao){
         this.valor = valor;
-        thiss.data = data;
+        this.data = data;
+        this.categoria = categoria;
+        this.descricao = descricao;
     }
 
     public double getValor() {
-        return 0;
+        return 0;          
     }
-}
+}   
