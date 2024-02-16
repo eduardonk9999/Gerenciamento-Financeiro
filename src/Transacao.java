@@ -12,7 +12,7 @@ public class Transacao {
     }
 
     public double getValor() {
-        return 0;
+        return 0;          
     }
 
     public void setValor(double valor) {
@@ -44,3 +44,4 @@ public class Transacao {
     }
 
 }
+

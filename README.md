@@ -7,7 +7,6 @@ Ele serve como uma demonstração prática dos princípios fundamentais da Progr
 O objetivo principal deste projeto é fornecer aos usuários uma ferramenta eficaz para registrar suas transações financeiras, 
 categorizá-las e gerar relatórios úteis para análise. A aplicação permite que os usuários adicionem transações de receitas e despesas, atribuam categorias às transações e visualizem o saldo atual de suas contas.
 
-
 ### TODO
 
 - [X] Definir Requisitos:
