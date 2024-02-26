@@ -18,7 +18,7 @@ categorizá-las e gerar relatórios úteis para análise. A aplicação permite 
     - [X] Decidir sobre a estrutura de diretórios e pacotes do projeto.
 
 - [X] Implementar as Classes Básicas:
-    - [X] Criar a classe `Conta` com atributos e métodos para gerenciar o saldo e as transações.
+    - [ ] Criar a classe `Conta` com atributos e métodos para gerenciar o saldo e as transações.
     - [ ] Implementar a classe `Transacao` com atributos para valor, data, categoria e descrição.
     - [ ] Desenvolver a classe `Categoria` para categorizar as transações.
 
